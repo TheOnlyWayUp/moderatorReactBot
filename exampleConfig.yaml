@@ -1,0 +1,12 @@
+
+---
+general:
+  token: ODgzMDQ3MTk1Mjk1NzY0NTIx.YTEPyQ.HZQ2wfMu6BtRsvJmk1Qyvh8pY98 #Your bot token
+  onlyOneChannel: #Whether or not if reactions should only be considered if they're in one channel
+  - true # true/false
+  - channelId: 876055600839159856 #if true, put the channel ID here
+  emoji: 👍 # The emoji that a moderator needs to react with
+  
+roles:
+  moderatorRoleId: 884480516684914728 #The role that moderators need to have
+  verifiedRoleId: 884480693671985224 #The role that is given to users
