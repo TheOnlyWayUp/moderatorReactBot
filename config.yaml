@@ -1,0 +1,12 @@
+
+---
+general:
+  token: #Your bot token
+  onlyOneChannel: #Whether or not if reactions should only be considered if they're in one channel
+  - true # true/false
+  - channelId: #if true, put the channel ID here
+  emoji: # The emoji that a moderator needs to react with
+
+roles:
+  moderatorRoleId: #The role that moderators need to have
+  verifiedRoleId: #The role that is given to users
